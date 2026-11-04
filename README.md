@@ -1,7 +1,7 @@
 <h1 align="center">Edson Moraes</h1>
 
 <p align="center">
-<b>Data Analyst / Data Scientist in training · 20 years as a software engineer · 15 years turning ERP data into decisions</b>
+<b>Data Analyst / Data Scientist in training · 25 years as a software engineer (since 2001) · 15 years turning ERP data into decisions</b>
 </p>
 
 <p align="center">
