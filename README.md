@@ -36,7 +36,7 @@ What I bring that a career-starter usually does not:
 
 - **Business context.** I know what the numbers in an ERP mean, where they come from and why they are wrong.
 - **Engineering discipline.** Tests, versioning, documented decisions, reproducible notebooks, deployed apps.
-- **SQL at production scale.** Query tuning, index analysis and integration pipelines on real company databases, not just exercises.
+- **SQL at production scale.** 25 years of T-SQL and PostgreSQL on real company databases: query tuning, index analysis, integration pipelines.
 
 ---
 
@@ -70,12 +70,6 @@ Interactive dashboard over **51k US used-car listings**: mileage distribution, p
 <p align="center"><img src="assets/dashboard_streamlit.png" width="720" alt="Streamlit dashboard"></p>
 
 `Streamlit` `Plotly` `pandas` `statsmodels` `Render`
-
-### 🗄️ [SQL Data Analysis — PostgreSQL](https://github.com/artraxia/sql-data-analysis-postgresql)
-
-25 business questions answered in PostgreSQL: running totals and rankings with **window functions**, `CASE` imputation, multi-table **joins** with timestamp casting, anti-joins with subqueries, `UNION` / `UNION ALL`, `GROUP BY` / `HAVING`, and the Chicago taxi (Zuber) project queries with `DATE_TRUNC` and `EXTRACT(DOW)`.
-
-`PostgreSQL`
 
 ### 🕸️ [Web Scraping with Python](https://github.com/artraxia/web-scraping-beautifulsoup-pandas) · [Python Data Fundamentals](https://github.com/artraxia/python-data-fundamentals)
 
