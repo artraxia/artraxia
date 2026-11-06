@@ -53,6 +53,16 @@ Data cleaning (types, `tbd` scores, missing ratings), platform life-cycle modell
 
 `pandas` `NumPy` `Matplotlib` `SciPy` `Jupyter`
 
+### 🚕 [Chicago Taxi Rides — Scraping, SQL & Hypothesis Testing](https://github.com/artraxia/chicago-taxi-rides-analysis)
+
+Market study for a ride-sharing launch in Chicago, built in three layers: **web scraping** of hourly weather records, **six PostgreSQL queries** joining cabs, trips, neighborhoods and weather, and a **Python analysis** of competitors and destinations ending in a **Welch t-test**. Reviewer-approved course project.
+
+<p align="center"><img src="assets/zuber_duration_by_weather.png" width="720" alt="Ride duration by weather"></p>
+
+> **Key findings:** the market is concentrated (Flash Cab 14.2%, top 5 = 44.1%); 76.7% of destinations fall in 10 downtown neighborhoods; on rainy Saturdays Loop → O'Hare rides take **+7 min (+21%)**, p = 2.4 × 10⁻¹¹, robust to outlier removal.
+
+`pandas` `SciPy` `requests` `BeautifulSoup` `PostgreSQL` `Jupyter`
+
 ### 🚗 [Used Car Ads Dashboard — Streamlit](https://github.com/artraxia/used-car-ads-streamlit-dashboard) · [live demo](https://pythonrendertest-mgx1.onrender.com)
 
 Interactive dashboard over **51k US used-car listings**: mileage distribution, price vs. odometer by condition, and whether model year and vehicle type change how long an ad stays online (OLS trendline, boxplots, group means). Deployed on Render.
